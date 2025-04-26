@@ -1,2 +1,6 @@
 Initial content in b.txt 
+<<<<<<< HEAD
 "Updated in car branch" 
+=======
+"Updating in the bike branch"  
+>>>>>>> bike
