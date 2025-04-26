@@ -1,1 +1,2 @@
 Initial content in b.txt 
+"Updating in the bike branch"  
