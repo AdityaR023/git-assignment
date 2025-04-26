@@ -1,1 +1,2 @@
 Initial content in b.txt 
+"Updated in car branch" 
